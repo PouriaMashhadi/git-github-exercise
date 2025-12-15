@@ -17,4 +17,11 @@ FIRST COMMIT from PouriaMashhadi:Feature
 SECOND COMMIT from PouriaMashhadi:Feature
 
 
+
 FIRST COMMIT After push  from PouriaMashhadi:Feature
+
+FIRST COMMIT After push  from PouriaMashhadi:Feature
+SECOND COMMIT After push  from PouriaMashhadi:Feature
+
+git checkout feature
+
